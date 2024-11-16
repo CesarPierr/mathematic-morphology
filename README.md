@@ -2,6 +2,13 @@
 **Authors:** Pierre César, Liam Kelley  
 **Date:** May 22, 2022
 
+## Introduction
+
+The objective of this project was to propose an automatic and efficient method for segmenting the vascular network in SLO retinal images. The data was extracted from IOSTAR database from IDIAP for evaluating retinal vascular network segmentation algorithms. Our segmentation needed to match expert manual annotations as closely as possible. We were able to quantify our results using an evaluation function provided with the subject.
+
+In this report, we will first present our responses to the proposed questions and our reflections on the research directions. We will then explain our proposed method and its results. Finally, we will analyze the performance and limitations of our proposition.
+
+The entiere report is available in the 'rapport_MI206.pdf'
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Responses to Questions](#responses-to-questions)
@@ -22,11 +29,6 @@
    2. [Limitations](#limitations)
 6. [Conclusion](#conclusion)
 
-## Introduction
-
-The objective of this project was to propose an automatic and efficient method for segmenting the vascular network in SLO retinal images. The data was extracted from IOSTAR database from IDIAP for evaluating retinal vascular network segmentation algorithms. Our segmentation needed to match expert manual annotations as closely as possible. We were able to quantify our results using an evaluation function provided with the subject.
-
-In this report, we will first present our responses to the proposed questions and our reflections on the research directions. We will then explain our proposed method and its results. Finally, we will analyze the performance and limitations of our proposition.
 
 ## Responses to Questions
 
